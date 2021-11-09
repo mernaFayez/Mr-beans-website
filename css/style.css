@@ -264,7 +264,7 @@ background: var(--light-color);
 
 .products .box-container .box .image img{
     height: 25rem;
-    width: 25rem;        /*my update ^^*/
+    width: 25rem;        /*^^*/
 }
 
 .products .box-container .box:hover .image img{
